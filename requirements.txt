@@ -1,0 +1,4 @@
+# Base ----------
+numpy~=2.2.1
+PyYAML~=6.0.2
+torch~=2.5.1  # see https://pytorch.org/get-started/locally (recommended)
